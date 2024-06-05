@@ -1,0 +1,7 @@
+openai-whisper
+faster_whisper
+sox
+SpeechRecognition
+ane_transformers
+coremltools
+pyaudio

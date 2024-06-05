@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+outputs/
+modules/whisper.cpp/models/ggml-base.en.bin
